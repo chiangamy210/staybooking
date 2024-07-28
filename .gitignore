@@ -38,3 +38,6 @@ out/
 
 ### Credentials ###
 src/main/resources/credentials.*
+
+### key ###
+src/main/resources/application.yml
